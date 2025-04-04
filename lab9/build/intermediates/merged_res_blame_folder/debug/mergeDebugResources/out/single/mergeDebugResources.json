@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\mipmap-hdpi_music.jpg.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\mipmap-hdpi\\music.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\drawable_defender_pulse_427.png.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\drawable\\defender_pulse_427.png"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\layout_product_item.xml.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\layout\\product_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\drawable_jbl_tune110.png.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\drawable\\jbl_tune110.png"
+    },
+    {
+        "merged": "com.example.lab2-debug-32:/layout_cart_item.xml.flat",
+        "source": "com.example.lab2-main-34:/layout/cart_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\drawable_milanka.jpg.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\drawable\\milanka.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\drawable_celebrat_e400.png.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\drawable\\celebrat_e400.png"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\drawable_sven_ap_320m.png.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\drawable\\sven_ap_320m.png"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\layout_activity_product_details.xml.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\layout\\activity_product_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\layout_cart_item.xml.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\layout\\cart_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\drawable_panasonic_rp_125e_w.png.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\drawable\\panasonic_rp_125e_w.png"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\drawable_chudo.jpg.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\drawable\\chudo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\drawable_celebrat_g27.png.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\drawable\\celebrat_g27.png"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\layout_activity_headphones_details.xml.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\layout\\activity_headphones_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\drawable_sushi.png.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\drawable\\sushi.png"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\drawable_philips_tae_wt00.png.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\drawable\\philips_tae_wt00.png"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\layout_list_item_cart.xml.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\layout\\list_item_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\layout_activity_cart.xml.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\layout_headphones_item.xml.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\layout\\headphones_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\drawable_fiio_fd11.png.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\drawable\\fiio_fd11.png"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\drawable_kinder.jpg.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\drawable\\kinder.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\drawable_xiaomi_mi_basic_black.png.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\drawable\\xiaomi_mi_basic_black.png"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\layout_list_item_product.xml.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\layout\\list_item_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\drawable_ic_arrow_back.png.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\drawable\\ic_arrow_back.png"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\layout_list_item_headphones.xml.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\layout\\list_item_headphones.xml"
+    },
+    {
+        "merged": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ilyag\\.gradle\\daemon\\8.10.2\\com.example.lab2-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    }
+]

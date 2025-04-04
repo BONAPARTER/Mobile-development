@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">HeadphonesShop</string>
+    <string name="developer">Разработал: Головач Илья</string>
+    <string name="selected">Выбрано:</string>
+    <string name="show_checked">Show Checked Items</string>
+    <style name="Base.Theme.Lab2" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Lab2" parent="Base.Theme.Lab2"/>
+</resources>
